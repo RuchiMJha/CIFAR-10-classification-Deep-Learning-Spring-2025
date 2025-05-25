@@ -64,9 +64,9 @@ Potential areas for enhancement include:
 
 ## Team Members
 
-- Neha Patil (`np2998`)
-- Ruchi Jha (`rj2807`)
-- Satvik Upadhyay (`su2250`)
+- Neha Patil  
+- Ruchi Jha  
+- Satvik Upadhyay 
 
 ## License
 
